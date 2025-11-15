@@ -12,7 +12,7 @@ const Navbar: React.FC<NavbarProps> = ({ activeSection, onNavigate }) => {
       <div className="nav-container">
         <div className="logo-section">
           <img 
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_UMG.png/220px-Logo_UMG.png" 
+            src="/images/logo umg.png" 
             alt="UMG Logo" 
             className="logo-img" 
           />
